@@ -1,0 +1,15 @@
+.fecha{
+font-family: monospace;
+letter-spacing: 3px;
+}
+body{
+    background-color: cornflowerblue;
+}
+.cuerpo{
+    background-color: white;
+    margin: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+    padding: 10px;
+}
